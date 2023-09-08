@@ -1,2 +1,2 @@
 # souphoto
-www.sophoto.com
+www.souphoto.com
